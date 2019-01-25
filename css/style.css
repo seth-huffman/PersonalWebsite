@@ -56,6 +56,16 @@ body {
 .center {
 	text-align: center;
 }
+.fa {
+    font-size: 35px !important;
+    color: white;
+    float: right;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.fa:hover {
+	opacity: .5;
+}
 .footer {
 	padding: 30px 330px;
 }
